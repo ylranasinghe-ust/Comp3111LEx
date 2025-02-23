@@ -13,5 +13,6 @@ RANASINGHE, Yehan Lakvindu :
 2. Open the project in IntelliJ IDEA.
 3. Run `mainApp1.java` or `myLibrary.java`.
 
-## Screenshot 
+## Screenshot
 
+![Project Screenshot](screenshot.png)
